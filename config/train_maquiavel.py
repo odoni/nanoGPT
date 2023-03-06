@@ -1,7 +1,7 @@
 # train a miniature character-level shakespeare model
 # good for debugging and playing on macbooks and such
 dtype='float32'
-init_from = 'gpt2-xl'
+init_from = 'gpt2'
 out_dir = 'out-maquiavel'
 eval_interval = 1000 # keep frequent because we'll overfit
 eval_iters = 200
