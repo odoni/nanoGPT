@@ -348,702 +348,855 @@ Continuous learning is essential in leadership and team management as it helps l
 How can a leader and team manager create a positive work environment?
 A leader and team manager can create a positive work environment by promoting diversity and inclusion, fostering teamwork, recognizing and rewarding good work, providing a supportive and respectful work culture, and encouraging open communication.
 
-How many types are the teams and what ways are assumed by leaders In this chapter, we will explore the nature of the teams and the ways in which the leaders take them.
+Introduction to Leadership
+In its simplest form, leadership is influencing other people to follow. Therefore, anyone who can influence people to follow them has leadership qualities.
 
-Understanding these matters is fundamental to those seeking to exercise leadership wisely and effectively.
+Leadership happens at all levels within organizations and society, not just among those who work in defined "leadership positions."
 
-Since ancient times, men have always gathered around a leadership figure, whether to protect themselves from external threats or to achieve common goals.
+Leadership means different things to different people, different cultures, and in different situations. But it is always a multifaceted role.
 
-It is through leadership that shapes and guides the direction of a team.
+Effective leadership enables followers to succeed. It sets direction, builds a vision, and adapts as circumstances require. Leadership is about mapping out where you need to go to "win" as a team or an organization. It's dynamic, exciting and inspiring.
 
-But, after all, how many guys are the teams? Is there only one form of leadership or are they present in many ways? That's what we'll talk about next.
+The word "leader" can evoke a variety of images. For example:
 
-Throughout this chapter, we will dive into the depths of human nature, analyzing the different forms of leadership and their respective advantages and disadvantages.
+A political leader, pursuing a passionate, personal cause.
+An explorer, striking out into the wilderness.
+An executive, developing strategy to achieve organizational goals.
+This article focuses on leaders and leadership in the workplace.
 
-We will find that, like people, teams also have their own personalities and that it is up to the leader to find the most appropriate way to lead them.
+Opinions differ on who can and should lead. Management professor Michael Useem argued that rather than taking a traditional "top-down approach," leadership is most effective when it also comes from below. [1] And in today's complex, globalized workplaces, leadership often comes from many directions.
 
-Assuming the leadership of a team is a task that requires courage, determination and above all humility.
+Indeed, in some organizations, it may be the leaders in supervisory positions who can have the biggest influence. After all, supervisors are closest to the work of team members and to the needs of the customer. Sometimes, individuals are expected to fulfill leadership roles among their peers .
 
-One must be attentive to the challenges and have the wisdom to face them wisely.
+Leadership is no longer regarded as a solitary activity. Distributed leadership, a model which originated in education, is an increasingly popular leadership approach, not least because many organizations today are simply too large and complex for any one leader to direct alone. See the section on "Hierarchy," below, for more on this.
 
-This chapter will be a valuable guide for all those who seek to exercise leadership effectively and transformatively.
+Why Is Leadership Important?
+All organizations need good leadership. Well-led organizations tend to be more productive, competitive and responsive to change. Their employees have a clearer vision of where they are headed and why, and are therefore more engaged and motivated. Organizations that excel at developing leaders tend to achieve higher long-term profitability.
 
-Hey leader, I usually see people trying to please you with expensive things or that they think you like, like tickets to events, courses, travels, gifts, and other cool things.
+What Makes a Good Leader?
+An effective leader is a person who does the following:
 
-I wanted to offer something that I really value, so I decided to offer you the knowledge that I have acquired over the years, studying the actions of great leaders, both ancient and modern.
+Creates a vision of the future.
+Works well with a team.
+Enables their team's success.
+Demonstrates flexibility.
+Leadership brings together the skills needed to do these things. We'll look at each element in more detail.
 
-I summarized everything in a small book and am giving you the opportunity to learn everything I learned.
+1. Leaders Create a Vision
+A vision is a realistic, convincing and attractive depiction of where you want to be in the future. Vision provides direction, makes priorities clear, and provides markers for success.
 
-If you think that's not good enough, I understand, but I believe that's all I can offer.
+Leaders hold in mind their vision while understanding the reality of the present. They then embody that vision in everything they do and find ways of connecting it to employee performance to make it a reality.
 
-I did not add elaborate phrases or difficult words, because I want it to be appreciated by your substance, not by your style.
+Leaders consider how their industry is likely to evolve, and how their competitors are likely to behave. They look at how they can innovate successfully and shape their businesses and their strategies to succeed in future marketplaces. And they test their visions with stakeholders, and by assessing key risks using techniques such as Scenario Analysis .
 
-I don't want you to think I'm arrogant for giving advice on leadership.
+Therefore, leaders are proactive – solving problems, looking ahead, and not being satisfied with things as they are.
 
-To understand people, you need to be one of them and to understand the leader, you need to be in power.
+A compelling vision is one that people can see, feel, understand, and embrace. Inspirational leaders provide a rich picture of what the future will look like when their visions have been realized. They tell inspiring stories and explain their visions in ways that everyone can relate to.
 
-So please accept this gift with good intentions and I hope it will bring you lots of luck and greatness.
+Here, leadership combines the analytical side of vision creation with the passion for shared values, creating something that's meaningful to the people they lead.
 
-In all organizations, all sectors that have already exercised and still exercise power over their employees, have been and are managed by directors and managers.
+2. Leaders Work Well With a Team
+Leaders cannot achieve their vision without other people's contributions. It's a leader's ability to motivate and collaborate with people that helps them to deliver that vision. As such, much of effective leadership relies on people skills.
 
-Management teams are or were formed by succession, when the position is occupied by professionals who have long been working in that area, or are new.
+Leaders need to understand and respect the people on their team as individuals, and to know how to bring out the best in them as they work together. Awareness of team dynamics will help here.
 
-The new management teams, or are entirely new, such as when a whole new area is formed or are added to an existing management team.
+Effective leaders recognize and consider the needs and views of their followers at all levels. Those leaders who pay close attention to how people feel about their work, and what motivates them personally, can take proactive, appropriate steps to aid engagement and retention.
 
-These acquired managerial teams, or are accustomed to working under a centralized management, or are accustomed to teamwork and are conquered through their own effort or by the efforts of others, through luck or skill.
+The degree to which people feel valued is a primary source of motivation. Effective leaders recognize their team members' achievements and find ways of expressing their appreciation.
 
-I'll put aside the discussion about other management models, because I've talked about it before.
+The ability to delegate to others and to empower them is another essential leadership quality. Done successfully, it can free leaders from day-to-day operations to focus on wider strategy, inform the vision with fresh ideas, and motivate team members. But this relies on an organizational climate of trust and confidence.
 
-I will focus on management, and continue to build the strategies I have mentioned, and examine how these managements can be conducted and maintained.
+Effective leaders also look for leadership potential in others. By developing leadership skills within your team, you create an environment where you can ensure long-term success. Holding back your people out of fear of losing power is a form of self-sabotage .
 
-Areas that have a succession of stable managers and that employees are accustomed to working together, there are fewer challenges to keep the area leadership than in teams with new managers.
+3. Leaders Enable Success
+Enthusiasm can run high at the start of a new project. But it's down to leaders to guide their team toward the finish line and equip them with the right tools to get there.
 
-It is enough to keep the order established by the previous team and deal with the challenges that arise.
+People need goals and measures that are directly linked to the vision. Our article on Performance Management and KPIs (Key Performance Indicators) explains one way of doing this, and those on Objectives and Key Results (OKRs) and OGSM Frameworks present others.
 
-So if the management team is capable, they will always keep the business unless an external force will interfere.
+Restating the vision in terms of its impact, and taking frequent opportunities to communicate this and its relevant objectives in an attractive and engaging way, can embed things further.
 
-Even in this case, the team can regain control regardless of the power of external force.
+Leaders need to ensure that the work required to deliver results is properly managed – either by themselves, or by delegating to a dedicated manager or team of managers.
 
-The management team has fewer reasons and need to oppress their employees, so if they do not have harmful behaviors, they are likely to be loved by the team.
+They'll also equip team members with the necessary skills and abilities to do their jobs and achieve the vision. They do this by giving and receiving feedback regularly, by training and coaching people, and by encouraging collaboration and skill sharing across the organization.
 
-The stability and continuity of the management team makes people forget how it all started, so any change always leaves room for other changes.
+Change management is another essential discipline for leaders, as introducing and delivering the vision will likely require new attitudes, processes and roles for many, as well as time for adjustment.
 
-What is the main topic of this chapter?
+4. Leaders Are Flexible
+Leaders need to be adaptable learning how and when to adjust focus, and embracing change themselves.
 
-The nature of teams and the ways leaders guide them.
+For example, the globalization of business is one of the most influential factors in how leadership is executed in organizations today, alongside the movement toward virtual and hybrid environments.
 
-Why is understanding team dynamics important for leaders?
-It is fundamental for exercising leadership wisely and effectively.
+Back in 2003, executive coach and author Marshall Goldsmith identified five emerging characteristics that he believed would be increasingly important to future leaders. [2] And they remain true today. They are the ability to:
 
-What is the historical significance of leaders in human society?
-Leaders have always gathered people around them to protect themselves or achieve common goals.
+Think globally.
+Appreciate cultural diversity.
+Develop technological know-how.
+Forge partnerships and alliances.
+Share leadership.
+Leaders benefit from applying different models of leadership depending on context. For example, when working with new starters or in situations where quick decisions are required, a directive style is often best; an experienced team, on the other hand, benefits from a more hands-off approach. Similarly, some situations require more focus on the task at hand while others need more attention on relationship building.
 
-What is the role of leadership in shaping the direction of a team?
-Leadership guides and shapes the direction of a team.
+Employees increasingly prefer to work for leaders who offer the best developmental challenges and opportunities and a culture that makes staying worthwhile beyond the basic security of a paycheck. [3] A less authoritarian and more consultative approach to leadership is likely to be more effective in this scenario; Transformational Leadership is a particularly useful model.
 
-How many types of teams are there?
-The text does not provide a specific number, but suggests that teams have their own personalities.
+Three Things Leaders Don't Do
+What we need from leaders has changed over time. The following have been associated with leadership in the past but are no longer always seen, or desirable, for leadership today:
 
-Is there only one form of leadership, or are there multiple ways to lead?
-There are multiple ways to lead, as the text suggests.
+Separating leadership and management.
+Demonstrating big and bold personality traits.
+Standing at the front and top of a hierarchy.
+We'll look at each of these aspects below.
 
-What qualities does assuming the leadership of a team require?
-It requires courage, determination, and humility.
+1. Leadership Vs. Management
+Leadership and management are not the same thing. They are distinctive, yet complementary, processes. And, while leaders set the direction for the work being done, they also need to use management skills to guide their people to the right destination, in a smooth and efficient way.
 
-Why does the author believe that offering knowledge is a valuable gift for a leader?
-Because it is something the author values and has acquired through studying the actions of great leaders.
+Management has been described as the:
 
-What is the author's intention in offering the small book on leadership?
-To provide a valuable guide for those seeking to exercise leadership effectively and transformatively.
+"attainment of organizational goals in an effective and efficient manner through planning, organizing, staffing, directing, and controlling organizational resource."
 
-Why did the author avoid using elaborate phrases or difficult words in the small book?
-To ensure that the content is appreciated for its substance, not its style.
+Today, we'd also include the responsibilities of people-development and exercising a duty of care.
 
-Does the author believe that giving advice on leadership is arrogant?
-No, the author believes that understanding people requires being one of them and understanding leaders requires being in power.
+Increasingly, individuals in management positions are required to exercise what might be more often termed leadership behaviors, such as creating a compelling vision, inspiring and motivating their people, behaving strategically, and leading change.
 
-What is the role of directors and managers in organizations?
-They exercise power over employees and manage the organization.
+Managers can be highly skilled, good at their jobs, and valuable to their organizations without exhibiting leadership qualities. But a particular danger in these situations is that people or organizations that are being managed by such an individual or group may believe they're being led, but they're not. There may be no leadership at all, with no one setting a vision and no one being inspired. This can cause serious problems in the long term.
 
-How are management teams usually formed?
-They are formed by succession or by adding new members.
+So, leadership and management are not mutually exclusive activities but are much more likely to be selected and exercised situationally, depending on what the circumstances dictate.
 
-What is the main focus of the chapter?
-The chapter focuses on exploring the nature of teams and the different ways leaders can lead them.
+Learn more about the differences between leaders and managers in our infographic, Leadership Vs. Management.
 
-Why is it important to understand the nature of teams and leadership?
-It is important to understand the nature of teams and leadership to exercise leadership effectively and transformatively.
+2. Personality or Trait Theory
+Trait theories are among the earliest attempts to explain why leaders are successful. Significantly, trait theories generally focus on the importance of selecting the right leaders rather than on developing them.
 
-Why have men always gathered around a leadership figure?
-Men have always gathered around a leadership figure to protect themselves from external threats or to achieve common goals.
+Charisma and confidence have long been synonymous with leadership and considered essential for a leader's success. Despite the attraction of this theory, these traits can, in fact, be detrimental in a leader, as the leader and their followers may believe that they have more skill than they actually do. You can hear our Expert Interview with Tomas Chamarro-Premuzic to find out more.
 
-What shapes and guides the direction of a team?
-Leadership shapes and guides the direction of a team.
+The command-and-control leadership methods of the last century are less appropriate in today's climate of rapid technological change, flatter organizational structures, and empowered employees.
 
-How many types of teams are there?
-The chapter does not specify how many types of teams there are.
+Similarly, a willingness to take risks and be assertive in decision making can reap dramatic rewards. But when unbalanced by the shared expertise of a team, they can lead to resentment, distrust, fear, and even business failure.
 
-Is there only one form of leadership or are there multiple forms?
-There are multiple forms of leadership.
+Knowledge sharing, creativity, and taking the initiative to anticipate and resolve stakeholders' needs are all highly prized competencies in today's organizations. The "leader as hero" model has therefore been largely abandoned in favor of a more people-centered leadership approach, where leaders show a willingness to work in the best interests of staff, customers and other stakeholders.
 
-Do teams have personalities?
-Yes, teams have their own personalities.
+Leadership consultants Dave Ulrich and Norm Smallwood urge organizations not to be preoccupied with leadership styles. [5] But they assert that unless a leader's personal beliefs match the organization's leadership brand, it will be difficult for a leader to come across as authentic and credible.
 
-What qualities does assuming leadership of a team require?
-Assuming leadership of a team requires courage, determination, and humility.
+3. Hierarchy
+While concepts of leadership were once hierarchical, this may no longer be the case. Leadership is adapting to encompass distributed activity. Distributed leadership has its roots in the education sector [6], and
 
-What does the small book offered to the leader contain?
-The small book contains knowledge acquired from studying the actions of great leaders, both ancient and modern.
+is the product of an interacting network of individuals, not the act of a single person.
+opens leadership to those who would have previously been excluded.
+embodies the belief that expertise and influence exist across the organization, rather than being concentrated in the hands of a few people.
+For example, outdoor clothing specialist WL Gore opted for a distributed leadership structure with a "lattice" formation. [7]
 
-Why did the giver choose not to use elaborate phrases or difficult words in the book?
-The giver chose not to use elaborate phrases or difficult words to ensure that the substance of the book is appreciated, not just the style.
+The development of sophisticated web technology allowed the emergence of new types of organizations based on mass collaboration. Such self-organizing bodies do have founders and leaders, but their leadership approach differs from that of more traditional companies. They are the guardians of the ethos, values and guidelines for the communities they serve.
 
-Why does the giver not want the leader to think they are arrogant for giving advice on leadership?
-The giver believes that to understand the leader, one needs to be in power, and to understand people, one needs to be one of them.
+Another more recent non-hierarchical leadership model is Holacracy . An organization using this model organizes its departments into circles and sub-circles based on roles and purpose. Sub-circles meet regularly and make their own decisions, considering the needs of the organization (the largest, all-inclusive circle). Designated members of sub-circles represent them, act as go-betweens, and make sure that their sub-circles' responsibilities stay on track. In this model, everyone has power and responsibility, and uses leadership skills to self-manage.
 
-Who typically manages organizations and sectors?
-Directors and managers typically manage organizations and sectors.
+How to Become a Better Leader
+There has been an enormous shift in attitudes toward leadership, both at academic and organizational levels. It is now widely recognized that top-down autocratic leadership has far less relevance to today's organizations, which face rapid change and have to fight to survive in an extremely competitive and increasingly global marketplace.
 
-How are management teams formed?
-Management teams are formed by succession, when the position is occupied by professionals who have long been working in that area, or when a whole new area is formed or added to an existing management team.
+French and Raven describe six forms of power that leaders can use, which encompass both older and newer views of leadership. Of these, it's particularly helpful when leaders have expert power. People admire and believe in these leaders because they're experts in what they do. They have credibility, and they've earned the right to be heard and followed. This makes it much easier for these leaders to motivate and inspire their teams.
 
-What are some ways in which management teams can be conquered?
-Management teams can be conquered through their own effort or by the efforts of others, through luck or skill.
+Good leaders are flexible, adaptable, ethical, and culturally aware, in order to be credible in the eyes of their employees and stakeholders. The effective leaders of today and tomorrow will consult, collaborate and distribute their power in order to get the best from themselves, their people, and the organization as a whole.
 
-Are management teams accustomed to working under a centralized management or teamwork?
-Management teams can be accustomed to working under a centralized management or teamwork.
+In our expert interview with him, U.S. Navy Captain Mark Brouker claims that leaders benefit from knowing that their role can make them intimidating to the people they lead, and taking steps to mitigate that. For example, corporate leaders make decisions about other people's job security and pay. So, a good leader should work to be approachable and build trust, and let people know that it's okay to make and learn from their own mistakes.
 
-What are the challenges of keeping the area leadership in teams with new managers?
-The challenges of keeping area leadership in teams with new managers involve dealing with changes and establishing a new order.
+For Goffee and Jones , effective leaders tend to be those who are able to articulate the relationship between where they've come from and where they're headed, are comfortable with their roots, are self-aware, and can adapt as they rise through the ranks, without losing their authenticity. [8]
 
-What happens if the management team is capable of dealing with challenges?
-If the management team is capable of dealing with challenges, they will likely keep the business unless an external force interferes.
+Authentic leaders are honest, responsible and courageous. They stay true to themselves, rather than trying to mould themselves into the kind of leader they think they should be, according to Harvard management professor Bill George. [9] They lead with purpose, meaning and values, build lasting relationships with others, and exercise self-discipline. Authentic leaders, George believes, build authentic organizations, which are less susceptible to mismanagement and corruption, and are better placed to deliver long-term value for their customers and investors.
 
-What is the effect of stability and continuity of the management team on employees?
-The stability and continuity of the management team can make employees forget how it all started, so any change always leaves room for other changes.
+Finally, trainer and coach Bruna Martinuzzi notes that authenticity comes from humility , which she believes is a type of quiet confidence where the person remains open to input.
 
-Do management teams have reasons to oppress their employees?
-Management teams have fewer reasons and less need to oppress their employees, so if they do not have harmful behaviors, they are likely to be loved by the team.
+The concept of agile work processes originated in the realization that far too often middle management was doing more to hold employees back than facilitate their success. 
 
-What is the main takeaway from the chapter?
-The main takeaway from the chapter is that effective and transformative leadership requires understanding the nature of teams and the different ways to lead them.
+The concept has since moved beyond scrum masters and the world of software development, to help employees in an array of professions and industries become more efficient, effective, and productive. 
 
-What is the importance of understanding the nature of teams and leadership?
-It is fundamental for those seeking to exercise leadership wisely and effectively.
+But what exactly is agile leadership? How does it show up in your organization? And what does it look like in practice?
 
-How have men gathered around a leadership figure throughout history?
-Whether to protect themselves from external threats or to achieve common goals.
+Here's how to identify the qualities of agile leadership and implement its principles at your company.
 
-What shapes and guides the direction of a team?
-Leadership.
+How Does Agile Leadership Benefit Your Business?
+Agile leadership is a leadership style that strives to remove roadblocks to success so that employees can be more effective and productive. 
 
-How many types of teams are there?
-The text does not specify how many types of teams there are.
+Since agile teams work together better, agile leadership drives better business outcomes with less wasted time and resources. By empowering teams, agile organizations can unleash the full power of their workforce.
 
-Is there only one form of leadership or are there many?
-There are many different forms of leadership.
+Business agility is essential in a constantly evolving world of work. Borrowing concepts from agile methodology enables companies to pivot more quickly in response to external factors. Adopting an agile mindset helps organizations visualize improvement on a granular level by allowing teams to experiment with improved products and processes.
 
-Are teams similar to people in terms of having their own personalities?
-Yes, the text suggests that teams also have their own personalities.
+Traditional Organizations vs. Agile Organizations
+Traditional organizations are susceptible to bogging down in bureaucracy. Since all important decisions come from the top, they can be slow to respond to change. This can have huge consequences. If a company can't evolve fast enough (or evolve at all), it risks losing both its relevance and market share.
 
-What is required to assume the leadership of a team?
-Courage, determination, and humility.
+Agile organizations, on the other hand, rely less on legacy rules and processes and more on updating and optimizing processes to facilitate better work. They decentralize power and recognize the value companies derive from listening to employees on the frontlines. When change occurs around them, agile organizations react quickly.
 
-What is the book offered as a gift about?
-The actions of great leaders, both ancient and modern.
+Not every project that teams implement will prove a success, but even disappointments can help the organization learn something. Taking an iterative approach allows groups of people across the organization to experiment with change to see what adjustments can produce the best results.
 
-Why did the giver not add elaborate phrases or difficult words to the book?
-To ensure it is appreciated for its substance, not its style.
+Leadership in Agile Organizations
+Before you can implement agile transformation across your workforce, you have to identify the qualities that define an agile leader. 
 
-Why did the giver offer the book as a gift?
-To offer something of value to the leader.
+Traditionally, leadership candidates have been selected because they're high performers in their roles. But high performers in other positions don't necessarily possess the qualities you need in an agile leader. Instead, seek to identify leadership candidates who are capable of adapting quickly to change, display curiosity, are open to innovation, and can communicate effectively with their teams. 
 
-Are all organizations and sectors managed by directors and managers?
-Yes, according to the text.
+You can help individuals with potential become agile leaders. You've located candidates with the right leadership qualities, now provide the support to foster those traits. HR can work alongside learning and development teams to create training programs for agile leaders. 
 
-How are management teams formed?
-By succession or by adding new members.
+One of the best ways to develop agile leaders is by giving them time to learn on the job. Shadowing agile leaders in cross-functional training can help leadership candidates observe agile behaviors in action, which they can then put into practice themselves.
 
-How do new management teams differ from established ones?
-New management teams may be accustomed to working under a centralized management, while established ones may be accustomed to teamwork.
+The Principles of Agile Leadership
+Agile leaders prioritize creating strong teams over rewarding dominant individuals. They understand the strengths of their team members and know how to facilitate the work to play to those strengths. They know how to nurture high-performance teams to keep them performing at the top of their game. When an employee misses their performance targets, agile leaders know how to create a performance improvement plan to get them back on track.
 
-How do stable management teams differ from those with new managers?
-Stable management teams have fewer challenges in maintaining leadership, while those with new managers may face more challenges.
+Just as they avoid placing the individual above the group, agile leaders don't put themselves above the team. They work in the background to facilitate processes more than they stand in the spotlight. They're not trying to be heroes or micromanagers: They just strive to produce desired outcomes for the business. 
 
-How can a management team maintain control in the face of external forces?
-By being capable and dealing with challenges as they arise.
+This is not to suggest agile leaders aren't capable of bold action. Agile leadership recognizes there are times when the system itself may not be working and rewards those willing to take a step back to address it. Agile leaders don't just accept the status quo: If there's a more efficient way to work, a culture of agile leadership will find a way to optimize those processes. Agile leaders also recognize others are capable of important innovations, which is why they listen when employees bring forward ideas.
 
-Why might a management team be loved by its employees?
-If they do not have harmful behaviors and are stable and continuous.
+Agile teams operate with high levels of self-organization. Agile leadership shifts the balance of power from its central location in leadership to being spread more equitably across the organization. As a result, employees in agile organizations are empowered to take control over their work and schedules. A culture of agility always seeks better ways of working, which often involves employees and teams being able to organize (and optimize) their own workflows.
 
-How does the stability and continuity of a management team affect employees?
-It may make them forget how it all started and leave room for other changes.
+With leadership dispersed throughout an organization, it becomes even more essential that everyone relies on accurate data. (If every leader relied on their own hunches and hearsay, a company would be thrown into chaos.) Agile leaders focus on facts and measurable outcomes. Agile leaders are analytical, so quantitative data drives their decision-making processes. If a new process or initiative isn't working, for example, they don't throw blame around: They look at the data to see why it didn't work and use what they learn from it to course correct.
 
-What is the advantage of having a succession of stable managers?
-It is easier to maintain leadership and stability.
+Agile development also empowers people to make decisions based on their own knowledge. Under an agile leadership model, employees are encouraged to share ideas and experiment. Communication is transparent, so employees have the information they need to make quick decisions with confidence. This minimizes the bureaucratic processes that stifle creativity.
 
-What is the disadvantage of having a succession of stable managers?
-It may make it difficult to implement changes or adapt to new situations.
+Agile leadership requires developing a strategy and referring to it on a regular basis. In an agile organization, a well-thought-out, frequently reviewed strategy is the company's true north. It directs employee priorities, from the top to the frontlines. Transparency is key: Each individual contributor should understand the company's basic strategy, and how their individual work intersects with it.
 
-Why is it important to examine how management can be conducted and maintained?
-To ensure effective and transformative leadership.
+By now, a central challenge of agile leadership should be clear. Since agile leadership thrives on experimenting and iterating continuous improvement, there's invariably an element of chaos. While it can't be eliminated, it can be controlled. Using a clear experimentation process, maintaining documentation, and reviewing the data to reveal clear results can help ensure there is structure even amid the evolution.
 
-What is the difference between a manager and a leader?
-A manager typically focuses on tasks and processes, while a leader focuses on people and vision.
+Examples of Agile Leadership Styles & Personalities
+Many of the biggest companies are thriving under agile leadership. 
 
-Can a person be both a manager and a leader?
-Yes, many people have both managerial and leadership skills.
+Mark Harrison, president, and CEO at Intermountain Healthcare has implemented 15-minute huddles to keep each of the 23 hospitals in the system aligned. These huddles empower employees to communicate from the bottom-up since concerns or ideas they raise in their huddles can easily be escalated to upper management.
 
-What are some common leadership styles?
-Autocratic, democratic, laissez-faire, transformational, and servant leadership are some common styles.
+Amazon's Jeff Bezos prioritizes the customer first and welcomes innovation from across the organization to help give customers what they need. His “multiple paths to yes” approach fosters a robust internal idea-sharing process. Every employee has the opportunity to pitch their idea to company leaders.
 
-What is autocratic leadership?
-Autocratic leaders make decisions without input from others and generally have strict control over their followers.
+3 Key Techniques of Agile Leadership
+Agile leaders communicate openly and transparently with their team members. Their priority is removing roadblocks so that team members can achieve their priorities each day. By communicating effectively, agile supervisors can anticipate and remove barriers to success. 
 
-What is democratic leadership?
-Democratic leaders involve their followers in decision-making and seek to build consensus.
+Agile leaders are always listening and observing. When team members address an issue or leaders observe one that arises frequently, they gather input from stakeholders to innovate better processes. Listening to employees on the frontlines is key to agile leadership. Agile leaders understand that practical process solutions are most likely to come from the people most intimately familiar with them.
 
-What is laissez-faire leadership?
-Laissez-faire leaders provide little guidance or direction, allowing their followers to make decisions and solve problems on their own.
+Agile leaders observe external forces, too: they understand how changes in the market, the economy, or public health can impact the workplace. They constantly refer back to strategic priorities for guidance, and regularly reassess them for relevance. Agile leaders are prepared to act nimbly to stay focused on customer and workforce needs. 
 
-What is transformational leadership?
-Transformational leaders inspire and motivate their followers to achieve a common goal.
+The result is that companies with truly agile leadership can adapt along with the world, even as more traditional organizations turn obsolete
 
-What is servant leadership?
-Servant leaders prioritize the needs of their followers and seek to serve them, rather than focusing on their own interests.
+Lean-Agile Leadership Introduction The Lean-Agile Leadership competency describes how Lean-Agile Leaders drive and sustain organizational change and operational excellence by empowering individuals and teams to reach their highest potential.
 
-Leadership and team management are two interrelated concepts that are essential for any organization or group to function effectively. Effective leadership is crucial for setting the direction, creating the vision, and motivating the team towards achieving the desired goals. Team management, on the other hand, involves organizing, guiding, and directing the team to work cohesively towards achieving these goals. In this essay, we will explore the importance of leadership and team management in achieving organizational success.
+ They do this through leading by example; learning and modeling SAFe's Lean-Agile mindset, values, principles, and practices; and leading the change to a new way of working.
 
-To start with, a good leader must have a clear vision for the team or organization. This vision should be communicated clearly and persuasively to the team members, providing them with a sense of purpose and direction. The leader must also be able to motivate the team, inspiring them to work towards achieving the vision. This motivation can be achieved through a variety of means, including providing incentives, recognition, and rewards for good work.
+ It is one of the seven core competencies of the Lean Enterprise, each of which is essential to achieving Business Agility.
 
-Another important aspect of leadership is communication. A good leader should be able to communicate effectively with team members, ensuring that everyone is aware of their roles and responsibilities. Communication also involves listening to team members' concerns, suggestions, and feedback, and responding appropriately. Effective communication is crucial for building trust and creating a positive work environment.
+ Each core competency is supported by a specific assessment, which enables the enterprise to assess their proficiency.
 
-Effective team management involves organizing the team's resources, including personnel, materials, and equipment, to ensure that they are used efficiently and effectively. The team manager must also be able to prioritize tasks and delegate responsibilities effectively, ensuring that each team member is working on tasks that are aligned with their strengths and abilities.
+ These core competency assessments, along with recommended improvement opportunities, are available from the Measure and Grow article.
 
-Collaboration and teamwork are also critical components of effective team management. The team manager must encourage teamwork by fostering a culture of collaboration and ensuring that team members are working together towards a common goal. This can be achieved through team-building activities, regular meetings, and open communication channels.
+ Why Lean-Agile Leaders? An organization's managers, executives, and other leaders are responsible for the adoption, success, and ongoing improvement of Lean-Agile development and the competencies that lead to business agility.
 
-One of the key roles of a leader is to provide guidance and support to team members. This includes mentoring and coaching team members, providing them with feedback on their performance, and offering opportunities for training and development. A good leader should also be approachable and supportive, providing team members with the resources and support they need to succeed.
+ Only they have the authority to change and continuously improve the systems that govern how work is performed.
 
-In addition to guidance and support, a good leader should also be able to provide constructive criticism and hold team members accountable when necessary. This involves setting clear expectations for performance and providing feedback when expectations are not met. However, criticism should always be constructive and focused on helping team members improve, rather than on punishing or belittling them.
+ Moreover, only these leaders can create an environment that encourages high-performing Agile teams to flourish and produce value.
 
-Effective team management also involves monitoring team performance and identifying areas for improvement. This can be achieved through regular performance reviews, team meetings, and feedback from customers or other stakeholders. The team manager must be able to identify strengths and weaknesses within the team, and develop strategies to address any issues.
+ Leaders, therefore, must internalize and model leaner ways of thinking and operating so that team members will learn from their example, coaching, and encouragement.
 
-Leadership and team management are also closely linked to organizational culture. The leader and team manager must work together to create a positive, supportive, and inclusive work environment. This involves promoting diversity and inclusion, encouraging innovation and creativity, and fostering a culture of continuous improvement.
+ Becoming a Lean enterprise is neither simple nor easy.
 
-Finally, effective leadership and team management require ongoing learning and development. The leader and team manager must be willing to learn from their experiences, seek feedback from team members and stakeholders, and continuously improve their skills and knowledge. This involves attending training courses, reading relevant literature, and networking with other leaders and team managers.
+ As described below, business agility requires a new approach to leadership.
 
-In conclusion, leadership and team management are essential components of organizational success. Effective leadership involves setting a clear vision, communicating effectively, and providing guidance and support to team members. Effective team management involves organizing resources, fostering teamwork, monitoring performance, and identifying areas for improvement. Together, leadership and team management create a positive work environment, promote innovation and creativity, and drive organizational success.
+ It starts with leaders exemplifying behaviors that will inspire and motivate the organization to pursue a better way of working.
 
-What is the importance of leadership in team management?
-Leadership is crucial for setting the direction, creating the vision, and motivating the team towards achieving the desired goals.
+ They set the example by coaching, empowering, and engaging individuals and teams to reach their highest potential through Lean and Agile principles and practices.
 
-How can a leader motivate their team?
-A leader can motivate their team by providing incentives, recognition, and rewards for good work.
+ In short, knowledge alone won't be enough.
 
-What is the role of communication in leadership and team management?
-Effective communication is crucial for building trust and creating a positive work environment.
+ Lean-Agile leaders must do more than simply support the transformation: they must actively lead the change, participating in and guiding the activities necessary to understand and continuously optimize the flow of value through the enterprise.
 
-What is team management?
-Team management involves organizing, guiding, and directing the team to work cohesively towards achieving goals.
+ Lean-Agile leaders: Organize and reorganize around value Identify queues and excess Work in Process (WIP) Continually focus on eliminating waste and delays Eliminate demotivating policies and procedures Inspire and motivate others Create a culture of relentless improvement Provide the space for teams to innovate By helping leaders develop along three distinct dimensions as illustrated in Figure 1, organizations can establish lean-agile leadership as a core competency: Figure 1.
 
-What are the resources a team manager must organize?
-A team manager must organize the team's resources, including personnel, materials, and equipment, to ensure that they are used efficiently and effectively.
+ The dimensions of lean-agile leadership These dimensions are: Leading by Example - Leaders gain earned authority by modeling the desired behaviors for others to follow, inspiring them to incorporate the leader's example into their own personal development journey.
 
-How can a team manager prioritize tasks and delegate responsibilities effectively?
-A team manager can prioritize tasks and delegate responsibilities effectively by ensuring that each team member is working on tasks that are aligned with their strengths and abilities.
+ Mindset and Principles - By embedding the Lean-Agile way of working in their beliefs, decisions, responses, and actions, leaders model the expected norm throughout the organization.
 
-Why is collaboration and teamwork important in team management?
-Collaboration and teamwork are critical components of effective team management as they foster a culture of collaboration and ensure that team members are working together towards a common goal.
+ Leading Change - Leaders lead (rather than simply support) the transformation by creating the environment, preparing the people, and providing the necessary resources to realize the desired outcomes.
 
-What is the role of guidance and support in team management?
-The team manager should provide guidance and support to team members, including mentoring and coaching, feedback on their performance, and opportunities for training and development.
+ The sections that follow explore each of these dimensions of lean-agile leadership in greater detail.
 
-What is the role of constructive criticism in team management?
-The team manager should provide constructive criticism and hold team members accountable when necessary, setting clear expectations for performance and providing feedback when expectations are not met.
+ Leading by Example Setting an example is not the main means of influencing others, it is the only means.
 
-Why is it important for a team manager to monitor team performance?
-Monitoring team performance is important as it helps the team manager to identify areas for improvement, set goals and objectives, and recognize good performance.
+ Albert Einstein Through their words and actions, leaders provide the organization with patterns of expected behaviors.
 
-How can a leader and team manager create a positive work environment?
-A leader and team manager can create a positive work environment by promoting diversity and inclusion, encouraging innovation and creativity, and fostering a culture of continuous improvement.
+ The aggregation of those patterns determines the organization's culture, whether good or bad.
 
-Why is organizational culture important in team management?
-Organizational culture is important in team management as it sets the tone for the work environment and influences the behavior and attitudes of team members.
+ The most important and effective technique for driving the cultural change needed to transform into a Lean enterprise is for leaders to internalize and model the behaviors and mindsets of business agility so that others can learn and grow by their example.
 
-What is the importance of ongoing learning and development in team management?
-Ongoing learning and development are important in team management as they help leaders and team managers to continuously improve their skills and knowledge.
+ Author Simon Sinek underscores the importance of leading by example in his book Leaders Eat Last [1] with the following: The leaders of companies set the tone and direction for the people.
 
-What are some examples of incentives a leader can provide to motivate their team?
-Examples of incentives a leader can provide to motivate their team include bonuses, recognition programs, and career development opportunities.
+ Hypocrites, liars, and self-interested leaders create cultures filled with hypocrites, liars, and self-interested employees.
 
-How can a leader and team manager promote diversity and inclusion?
-A leader and team manager can promote diversity and inclusion by creating an inclusive work environment, providing training on cultural competency, and encouraging diverse perspectives and ideas.
+ The leaders of companies who tell the truth, in contrast, will create a culture of people who tell the truth.
 
-Why is effective communication important in team management?
-Effective communication is important in team management as it promotes understanding, builds trust, and ensures that team members are aligned with the goals and objectives of the organization.
+ It is not rocket science.
 
-How can a team manager foster a culture of continuous improvement?
-A team manager can foster a culture of continuous improvement by encouraging feedback, recognizing good performance, and providing opportunities for learning and development.
+ We follow the leader.
 
-What is the role of feedback in team management?
-Feedback is important in team management as it helps team members to understand their strengths and weaknesses, provides motivation and guidance, and promotes continuous improvement.
+ By modeling the right behaviors, leaders can transform organizational cultures from the pathological (negative, power-oriented) and bureaucratic (negative, rule-oriented) patterns of the past to the generative (positive, performance-oriented) culture that is required for the Lean-Agile mindset to flourish (Figure 2 provides a comparison of the attributes of Westrum's organizational culture model [2]).
 
-What is leadership?
-Leadership refers to the ability to guide, direct, and motivate individuals or groups towards achieving a common goal.
+ These same behaviors also build earned authority - power gained through trust, respect, expertise, or action - which engenders greater engagement and commitment to organizational aims than positional authority.
 
-What is team management?
-Team management involves organizing, directing, and coordinating the efforts of a group of individuals to achieve a common objective.
+ Such leaders inspire others to follow their direction and to incorporate the leader's example into their own personal development journey.
 
-Why is effective communication important in leadership and team management?
-Effective communication is essential in leadership and team management as it ensures that team members understand their roles and responsibilities, fosters a positive work environment, and promotes collaboration and teamwork.
+ Figure 2.
 
-What are some of the key skills required for effective leadership and team management?
-Key skills for effective leadership and team management include communication, delegation, mentoring and coaching, accountability, problem-solving, and decision-making.
+ Westrum's organizational cultures model (adapted) As we learn more about the challenges of the digital age and the critical competencies leaders need to guide the organization to greater business agility and better business results, it's important to understand that the best outcomes will be achieved if leaders model behaviors that foster a generative culture.
 
-How can a leader motivate their team to achieve a common goal?
-A leader can motivate their team by setting a clear vision and goals, providing incentives and rewards for good work, recognizing and acknowledging individual contributions, and creating a positive work environment.
+ What, then, are the behaviors that leaders should embrace to set the right example and build a generative culture? While the potential list of attributes could be quite long, the leader behaviors below form a solid foundation for this dimension of leadership.
 
-What is the role of a team manager in effective team management?
-The team manager is responsible for organizing resources, delegating tasks, fostering collaboration and teamwork, monitoring performance, and providing guidance and support to team members.
+ Authenticity requires leaders to model desired professional and ethical behaviors.
 
-What is the importance of accountability in team management?
-Accountability ensures that team members are aware of their responsibilities and are held responsible for their performance. It promotes transparency, trust, and a sense of ownership among team members.
+ Acting with honesty, integrity, and transparency, they are true to themselves and their beliefs.
 
-How can a leader foster innovation and creativity in the team?
-A leader can foster innovation and creativity by encouraging team members to share their ideas, creating an open and supportive work environment, providing opportunities for training and development, and rewarding innovative and creative ideas.
+ Emotional intelligence describes how leaders identify and manage their emotions and those of others through self-awareness, self-regulation, motivation, empathy, and social skills.
 
-What is the role of continuous learning in leadership and team management?
-Continuous learning is essential in leadership and team management as it helps leaders and team managers to stay updated with the latest trends and techniques, acquire new skills and knowledge, and adapt to changing environments.
+ Life-long learning depicts how leaders engage in ongoing, voluntary, and self-motivated pursuit of knowledge and growth, and they encourage and support the same in others.
 
-How can a leader and team manager create a positive work environment?
-A leader and team manager can create a positive work environment by promoting diversity and inclusion, fostering teamwork, recognizing and rewarding good work, providing a supportive and respectful work culture, and encouraging open communication.
+ Growing others encourages leaders to provide the personal, professional, and technical guidance and resources each employee needs to assume increasing levels of responsibility and decision-making.
 
-How many types are the teams and what ways are assumed by leaders In this chapter, we will explore the nature of the teams and the ways in which the leaders take them.
+ Decentralized decision-making moves the authority for decisions to where the information is; prepares teams to make decentralized decisions by investing in their technical competence and by providing organizational clarity with decision guardrails.
 
-Understanding these matters is fundamental to those seeking to exercise leadership wisely and effectively.
+ [3].
 
-Since ancient times, men have always gathered around a leadership figure, whether to protect themselves from external threats or to achieve common goals.
+ These behaviors are critical to leading in the digital age where business growth is fueled by an increased shift to instant access to information, entertainment, social and business connections, products, and services, predominantly via mobile and smart devices.
 
-It is through leadership that shapes and guides the direction of a team.
+ This modern context requires mindsets and skills that can be significantly different from the patterns of working and leading that were successful in the past.
 
-But, after all, how many guys are the teams? Is there only one form of leadership or are they present in many ways? That's what we'll talk about next.
+ If leaders fail to adapt to the rapidly changing demands of a digital economy, their organizations will be significantly disadvantaged.
 
-Throughout this chapter, we will dive into the depths of human nature, analyzing the different forms of leadership and their respective advantages and disadvantages.
+ Mindset and Principles "The basic tenets of Lean challenge many of the aspects of traditional management theory and calls for a mindset that is foreign to most executives.
 
-We will find that, like people, teams also have their own personalities and that it is up to the leader to find the most appropriate way to lead them.
+ - Jacob Stoller, author of The Lean CEO: Leading the Way to World-Class Excellence Stoller's quote is a reminder that traditional management practices are insufficient for the changes needed to achieve business agility.
 
-Assuming the leadership of a team is a task that requires courage, determination and above all humility.
+ Instead, the Lean enterprise depends on what Toyota calls Lean-thinking manager-teachers.
 
-One must be attentive to the challenges and have the wisdom to face them wisely.
+ These leaders understand Lean thinking and principles and, as part of their everyday work activities, teach them to others.
 
-This chapter will be a valuable guide for all those who seek to exercise leadership effectively and transformatively.
+ This is integral to who they are and what they do.
 
-Hey leader, I usually see people trying to please you with expensive things or that they think you like, like tickets to events, courses, travels, gifts, and other cool things.
+ It informs every aspect of their approach to helping teams throughout the organization work in a Lean and Agile manner as the expected norm.
 
-I wanted to offer something that I really value, so I decided to offer you the knowledge that I have acquired over the years, studying the actions of great leaders, both ancient and modern.
+ But what if leaders don't have that mindset yet? What exactly is a 'mindset,' and how can a mindset be changed? Mindset Awareness and Openness to Change A mindset is simply the mental lens through which we view the world around us.
 
-I summarized everything in a small book and am giving you the opportunity to learn everything I learned.
+ It is how the human brain simplifies, categorizes, and interprets the vast amounts of information it receives each day.
 
-If you think that's not good enough, I understand, but I believe that's all I can offer.
+ Through a lifetime of structured learning (classes, reading) and unstructured lessons (life events, work experience), we form our mindsets.
 
-I did not add elaborate phrases or difficult words, because I want it to be appreciated by your substance, not by your style.
+ They reside in the subconscious mind and manifest themselves as deeply held beliefs, attitudes, assumptions, and influences.
 
-I don't want you to think I'm arrogant for giving advice on leadership.
+ Consequently, individuals are often unaware of how their mindsets influence how they carry out their responsibilities and interact with others.
 
-To understand people, you need to be one of them and to understand the leader, you need to be in power.
+ For example, many leaders develop beliefs through business school training and on-the-job experience that are grounded in legacy waterfall, stage-gate, and siloed ways of working.
 
-So please accept this gift with good intentions and I hope it will bring you lots of luck and greatness.
+ So how can mindsets be changed? It begins with the awareness of how one's current mindsets were formed.
 
-In all organizations, all sectors that have already exercised and still exercise power over their employees, have been and are managed by directors and managers.
+ It's also vital to cultivate the belief that mindsets can be developed and improved (a 'growth' mindset, as illustrated in Figure 3).
 
-Management teams are or were formed by succession, when the position is occupied by professionals who have long been working in that area, or are new.
+ Leaders must remain open to the possibility that existing mindsets based on traditional management practices need to evolve in order to guide the organizational change required to become a Lean enterprise.
 
-The new management teams, or are entirely new, such as when a whole new area is formed or are added to an existing management team.
+ [4] Figure 3.
 
-These acquired managerial teams, or are accustomed to working under a centralized management, or are accustomed to teamwork and are conquered through their own effort or by the efforts of others, through luck or skill.
+ Adopting a new mindset requires a belief that new abilities can be developed with effort Developing a New Mindset With an increased awareness of current mindsets and an openness to doing the work required to change them, the question then becomes, "Change them to what?” To lead the organization through the transformation needed to achieve business agility requires a mindset that reflects the core values and principles of Lean, Agile, and SAFe.
 
-I'll put aside the discussion about other management models, because I've talked about it before.
+ This is developed by gaining intimate knowledge and application of these values and principles.
 
-I will focus on management, and continue to build the strategies I have mentioned, and examine how these managements can be conducted and maintained.
+ It is reflected in how leaders routinely reference Lean-Agile principles and practices as part of carrying out their responsibilities, how they coach and mentor these behaviors in others, and how they promote Lean-Agile practices as the default way of working throughout the organization.
 
-Areas that have a succession of stable managers and that employees are accustomed to working together, there are fewer challenges to keep the area leadership than in teams with new managers.
+ Let's take a closer look at the three key elements that form the foundation of this new mindset: SAFe Core Values, the Lean-Agile Mindset, and SAFe Principles.
 
-It is enough to keep the order established by the previous team and deal with the challenges that arise.
+ SAFe Core Values The four core values that define SAFe's essential ideals and beliefs are alignment, transparency, built-in quality, and program execution.
 
-So if the management team is capable, they will always keep the business unless an external force will interfere.
+ Leader behaviors play a critical role in communicating, exhibiting, and emphasizing these values and how they guide the organization in its journey to embracing agility.
 
-Even in this case, the team can regain control regardless of the power of external force.
+ Here are some suggestions for reinforcing these values: Alignment - Communicate the mission by establishing and expressing the portfolio strategy and solution vision.
 
-The management team has fewer reasons and need to oppress their employees, so if they do not have harmful behaviors, they are likely to be loved by the team.
+ Help organize the value stream and coordinate dependencies.
 
-The stability and continuity of the management team makes people forget how it all started, so any change always leaves room for other changes.
+ Provide relevant briefings and participate in Program Increment (PI) Planning.
 
-What is the main topic of this chapter?
+ Help with backlog visibility, review, and preparation; regularly check for understanding.
 
-The nature of teams and the ways leaders guide them.
+ Built-in quality - By refusing to accept or ship low-quality work, Lean-Agile leaders demonstrate their commitment to quality.
 
-Why is understanding team dynamics important for leaders?
-It is fundamental for exercising leadership wisely and effectively.
+ They support investments in capacity planning for maintenance and to reduce technical debt, ensuring that the concerns of the entire organization—including design thinking, UX, architecture, operations, security, and compliance—are part of the regular flow of work.
 
-What is the historical significance of leaders in human society?
-Leaders have always gathered people around them to protect themselves or achieve common goals.
+ Transparency - Visualize all relevant work.
 
-What is the role of leadership in shaping the direction of a team?
-Leadership guides and shapes the direction of a team.
+ Take ownership and responsibility for errors and mistakes.
 
-How many types of teams are there?
-The text does not provide a specific number, but suggests that teams have their own personalities.
+ Admit missteps while supporting others who acknowledge and learn from theirs.
 
-Is there only one form of leadership, or are there multiple ways to lead?
-There are multiple ways to lead, as the text suggests.
+ Never punish the messenger.
 
-What qualities does assuming the leadership of a team require?
-It requires courage, determination, and humility.
+ Instead, celebrate learning.
 
-Why does the author believe that offering knowledge is a valuable gift for a leader?
-Because it is something the author values and has acquired through studying the actions of great leaders.
+ Create an environment where the facts are always friendly and transparent.
 
-What is the author's intention in offering the small book on leadership?
-To provide a valuable guide for those seeking to exercise leadership effectively and transformatively.
+ Program execution - Participate as Business Owners in PI execution and establish business value.
 
-Why did the author avoid using elaborate phrases or difficult words in the small book?
-To ensure that the content is appreciated for its substance, not its style.
+ Help adjust the scope to ensure demand matches capacity.
 
-Does the author believe that giving advice on leadership is arrogant?
-No, the author believes that understanding people requires being one of them and understanding leaders requires being in power.
+ Celebrate high-quality Program Increments while aggressively removing impediments and demotivators.
 
-What is the role of directors and managers in organizations?
-They exercise power over employees and manage the organization.
+ Lean-Agile Mindset SAFe is firmly grounded in four bodies of knowledge: Lean, Agile, systems thinking, and DevOps.
 
-How are management teams usually formed?
-They are formed by succession or by adding new members.
+ In fact, the genesis of SAFe was to develop guidance for enterprises on how to apply the principles and practices of Lean and Agile in the world's largest organizations.
 
-What is the main focus of the chapter?
-The chapter focuses on exploring the nature of teams and the different ways leaders can lead them.
+ A Lean-Agile Mindset requires leaders to learn, embrace, and model both Lean and Agile in their behaviors and support adoption by the enterprise.
 
-Why is it important to understand the nature of teams and leadership?
-It is important to understand the nature of teams and leadership to exercise leadership effectively and transformatively.
+ Figure 4 illustrates the key concepts of each discipline.
 
-Why have men always gathered around a leadership figure?
-Men have always gathered around a leadership figure to protect themselves from external threats or to achieve common goals.
+ Figure 4.
 
-What shapes and guides the direction of a team?
-Leadership shapes and guides the direction of a team.
+ The SAFe House of Lean and the values of the Agile Manifesto Lean - Lean is a set of principles and practices for efficient manufacturing and operations that grew out of the Toyota Production System developed in post-WWII Japan.
 
-How many types of teams are there?
-The chapter does not specify how many types of teams there are.
+ It focuses on problem-solving and continuous improvement to increase quality and eliminate waste.
 
-Is there only one form of leadership or are there multiple forms?
-There are multiple forms of leadership.
+ Adapted to product development by Leffingwell [5], Poppendieck [6], and others, the SAFe House of Lean illustrates the goal of delivering value through the pillars of respect for people and culture, flow, innovation, and relentless improvement.
 
-Do teams have personalities?
-Yes, teams have their own personalities.
+ Leadership provides the foundation on which everything else stands.
 
-What qualities does assuming leadership of a team require?
-Assuming leadership of a team requires courage, determination, and humility.
+ Agile - Agile was born from a collaboration of 17 thought leaders in software development who met in 2001 to seek alternatives to the documentation-driven, heavyweight software development processes that were common at the time.
 
-What does the small book offered to the leader contain?
-The small book contains knowledge acquired from studying the actions of great leaders, both ancient and modern.
+ It includes four values (shown in Figure 4) and twelve principles as reflected in the Agile Manifesto.
 
-Why did the giver choose not to use elaborate phrases or difficult words in the book?
-The giver chose not to use elaborate phrases or difficult words to ensure that the substance of the book is appreciated, not just the style.
+ Agile is known for delivering iterative and incremental value in the form of working software by promoting face-to-face interaction frequently between developers, customers, and cross-functional, self-organizing teams.
 
-Why does the giver not want the leader to think they are arrogant for giving advice on leadership?
-The giver believes that to understand the leader, one needs to be in power, and to understand people, one needs to be one of them.
+ Agile has since been adapted and embraced in many non-software development contexts.
 
-Who typically manages organizations and sectors?
-Directors and managers typically manage organizations and sectors.
+ The Lean-Agile Mindset article describes how Lean and Agile are at the heart of SAFe and are supported by many of the articles in the Framework that explain how to implement Lean-Agile practices at scale.
 
-How are management teams formed?
-Management teams are formed by succession, when the position is occupied by professionals who have long been working in that area, or when a whole new area is formed or added to an existing management team.
+ There are also many great courses, books, websites, and videos that form a rich set of resources that Lean-Agile leaders should explore to deepen their understanding.
 
-What are some ways in which management teams can be conquered?
-Management teams can be conquered through their own effort or by the efforts of others, through luck or skill.
+ SAFe Principles SAFe is based on ten immutable, underlying principles for applying Lean and Agile at scale.
 
-Are management teams accustomed to working under a centralized management or teamwork?
-Management teams can be accustomed to working under a centralized management or teamwork.
+ These tenets and economic concepts inspire and inform the roles and practices of SAFe, influencing leader behaviors and decision-making.
 
-What are the challenges of keeping the area leadership in teams with new managers?
-The challenges of keeping area leadership in teams with new managers involve dealing with changes and establishing a new order.
+ The principles are: Figure 5.
 
-What happens if the management team is capable of dealing with challenges?
-If the management team is capable of dealing with challenges, they will likely keep the business unless an external force interferes.
+ The SAFe Lean-Agile Principles Each is necessary to experience the personal, business, and economic benefits of applying SAFe.
 
-What is the effect of stability and continuity of the management team on employees?
-The stability and continuity of the management team can make employees forget how it all started, so any change always leaves room for other changes.
+ Moreover, these principles work together as a system; each informs the others, and the whole is far greater than the sum of them individually.
 
-Do management teams have reasons to oppress their employees?
-Management teams have fewer reasons and less need to oppress their employees, so if they do not have harmful behaviors, they are likely to be loved by the team.
+ Lean-Agile leaders embrace these principles and routinely demonstrate and apply them as they carry out their organizational responsibilities.
 
-What is the main takeaway from the chapter?
-The main takeaway from the chapter is that effective and transformative leadership requires understanding the nature of teams and the different ways to lead them.
+ Review the SAFe Principles article for a more in-depth discussion of each principle.
 
-What is the importance of understanding the nature of teams and leadership?
-It is fundamental for those seeking to exercise leadership wisely and effectively.
+ Leading Change Being a Lean-thinking manager-teacher provides leaders with the thought processes and practical tools they'll need to start building the Lean enterprise and achieving business agility.
 
-How have men gathered around a leadership figure throughout history?
-Whether to protect themselves from external threats or to achieve common goals.
+ The benefits of delivering value in the shortest sustainable lead time, creating flow, and producing customer delight - all with happy, engaged employees - are clear.
 
-What shapes and guides the direction of a team?
-Leadership.
+ It's also clear that for many organizations, the new way of working represents a quantum shift in culture and practice from the traditional paradigms of the past.
 
-How many types of teams are there?
-The text does not specify how many types of teams there are.
+ In other words, the transformation to Lean-Agile and DevOps with SAFe inevitably leads to significant organizational change.
 
-Is there only one form of leadership or are there many?
-There are many different forms of leadership.
+ Here again, the role of the Lean-Agile leader is critical.
 
-Are teams similar to people in terms of having their own personalities?
-Yes, the text suggests that teams also have their own personalities.
+ Successful organizational change requires leaders who will lead the transformation (rather than simply 'support' it) by creating the environment, preparing the people, and providing the necessary resources to realize desired outcomes.
 
-What is required to assume the leadership of a team?
-Courage, determination, and humility.
+ In fact, research shows clear correlations between the leader behaviors described in the "Leading by Example” section of this article and the success of organizational change driven by Agile and DevOps initiatives.
 
-What is the book offered as a gift about?
-The actions of great leaders, both ancient and modern.
+ Other researchers found that these leader behaviors have a greater influence on employees' commitment to supporting the change than simply following a prescriptive change model [7, 8].
 
-Why did the giver not add elaborate phrases or difficult words to the book?
-To ensure it is appreciated for its substance, not its style.
+ Lean-Agile leaders drive the change process by developing and applying the following skills and techniques: Change vision occurs when leaders communicate why change is needed and do so in ways that inspire, motivate, and engage people.
 
-Why did the giver offer the book as a gift?
-To offer something of value to the leader.
+ Change leadership is the ability to positively influence and motivate others to engage in the organizational change through the leader's own personal advocacy and drive.
 
-Are all organizations and sectors managed by directors and managers?
-Yes, according to the text.
+ A powerful coalition for change is formed when individuals from multiple levels and across silos are empowered and have the influence necessary to effectively lead the change.
 
-How are management teams formed?
-By succession or by adding new members.
+ Psychological safety occurs when leaders create an environment for risk-taking that supports change without fear of negative consequences to self-image, status, or career.
 
-How do new management teams differ from established ones?
-New management teams may be accustomed to working under a centralized management, while established ones may be accustomed to teamwork.
+ Training the new way of working ensures that everyone is trained in the values, principles, and practices of Lean and Agile, including a commitment by leaders to their own training so they can lead by example.
 
-How do stable management teams differ from those with new managers?
-Stable management teams have fewer challenges in maintaining leadership, while those with new managers may face more challenges.
+ Sound organizational change management (OCM) practices are still important and highly recommended in a SAFe transformation.
 
-How can a management team maintain control in the face of external forces?
-By being capable and dealing with challenges as they arise.
+ One of the most respected voices in OCM, Dr.
 
-Why might a management team be loved by its employees?
-If they do not have harmful behaviors and are stable and continuous.
+ John Kotter, described the eight steps in implementing successful change as [9]: Establish a sense of urgency Create the guiding coalition Develop the vision and strategy for change Communicate the change vision Empower employees for broad-based action Generate short-term wins Consolidate gains and produce more change Anchor new approaches in the culture Clearly, these steps require the active participation of the leaders driving the change.
 
-How does the stability and continuity of a management team affect employees?
-It may make them forget how it all started and leave room for other changes.
+ But even this is not enough.
 
-What is the advantage of having a succession of stable managers?
-It is easier to maintain leadership and stability.
+ As Heath and Heath note in their book on change [10], leaders "need to script the critical moves" that are essential to accomplish the change.
 
-What is the disadvantage of having a succession of stable managers?
-It may make it difficult to implement changes or adapt to new situations.
+ The SAFe Implementation Roadmap Based on these insights from the field of organizational change management, the SAFe Implementation Roadmap article series guides leaders on this particular journey, as summarized in the Implementation Roadmap article and Figure 6 below.
 
-Why is it important to examine how management can be conducted and maintained?
-To ensure effective and transformative leadership.
+ Figure 6.
 
-What is the difference between a manager and a leader?
-A manager typically focuses on tasks and processes, while a leader focuses on people and vision.
+ The SAFe Implementation Roadmap The SAFe implementation roadmap is described in a series of 12 articles that align with Kotter's blueprint.
 
-Can a person be both a manager and a leader?
-Yes, many people have both managerial and leadership skills.
+ For example, the sense of urgency is often established in the many conversations that lead up to an organization 'reaching the tipping point' and deciding to 'go SAFe.
 
-What are some common leadership styles?
-Autocratic, democratic, laissez-faire, transformational, and servant leadership are some common styles.
+' The next recommended action is to train a core group of Lean-Agile change agents and leaders who will form the powerful guiding coalition.
 
-What is autocratic leadership?
-Autocratic leaders make decisions without input from others and generally have strict control over their followers.
+ The pattern continues throughout the roadmap, which is designed to incorporate the lessons of successful organizational change into the model for a SAFe transformation.
 
-What is democratic leadership?
-Democratic leaders involve their followers in decision-making and seek to build consensus.
+ This roadmap helps leaders 'know the way' as they drive for successful change.
 
-What is laissez-faire leadership?
-Laissez-faire leaders provide little guidance or direction, allowing their followers to make decisions and solve problems on their own.
+ Role of the SAFe Program Consultant Even with Lean-Agile leaders and sound organizational change strategies in place, observations from many SAFe implementations indicate that a significant cadre of change agents and experienced coaches is also needed.
 
-What is transformational leadership?
-Transformational leaders inspire and motivate their followers to achieve a common goal.
+ While every leader plays a part in producing the change, SAFe Program Consultants (SPCs) are trained and equipped specially for this task.
 
-What is servant leadership?
-Servant leaders prioritize the needs of their followers and seek to serve them, rather than focusing on their own interests.
+ SPCs' training, tools, courseware, and intrinsic motivation play a critical role in successfully implementing and sustaining a SAFe transformation.
 
-Leadership and team management are two interrelated concepts that are essential for any organization or group to function effectively. Effective leadership is crucial for setting the direction, creating the vision, and motivating the team towards achieving the desired goals. Team management, on the other hand, involves organizing, guiding, and directing the team to work cohesively towards achieving these goals. In this essay, we will explore the importance of leadership and team management in achieving organizational success.
+ Summary Implementing SAFe is not just any change; it's a shift to persistently and relentlessly improving business agility, all based on the fundamentals of Agile and Lean.
 
-To start with, a good leader must have a clear vision for the team or organization. This vision should be communicated clearly and persuasively to the team members, providing them with a sense of purpose and direction. The leader must also be able to motivate the team, inspiring them to work towards achieving the vision. This motivation can be achieved through a variety of means, including providing incentives, recognition, and rewards for good work.
+ It requires managers, executives, and other leaders who understand how to lead, sustain, and indeed accelerate the transformation to a new way of working.
 
-Another important aspect of leadership is communication. A good leader should be able to communicate effectively with team members, ensuring that everyone is aware of their roles and responsibilities. Communication also involves listening to team members' concerns, suggestions, and feedback, and responding appropriately. Effective communication is crucial for building trust and creating a positive work environment.
+ Leaders alone have the authority to change and continuously improve the systems that govern how work is performed.
 
-Effective team management involves organizing the team's resources, including personnel, materials, and equipment, to ensure that they are used efficiently and effectively. The team manager must also be able to prioritize tasks and delegate responsibilities effectively, ensuring that each team member is working on tasks that are aligned with their strengths and abilities.
+ Only they can create an environment that encourages high-performing Agile teams to flourish and produce value.
 
-Collaboration and teamwork are also critical components of effective team management. The team manager must encourage teamwork by fostering a culture of collaboration and ensuring that team members are working together towards a common goal. This can be achieved through team-building activities, regular meetings, and open communication channels.
+ Leaders, therefore, must internalize and model leaner ways of thinking and operating so the rest of the organization will learn from their example, coaching, and encouragement.
 
-One of the key roles of a leader is to provide guidance and support to team members. This includes mentoring and coaching team members, providing them with feedback on their performance, and offering opportunities for training and development. A good leader should also be approachable and supportive, providing team members with the resources and support they need to succeed.
+ Effective leadership ultimately provides the foundation responsible for the adoption and success of Lean-Agile development and mastery of the competencies that lead to business agility.
 
-In addition to guidance and support, a good leader should also be able to provide constructive criticism and hold team members accountable when necessary. This involves setting clear expectations for performance and providing feedback when expectations are not met. However, criticism should always be constructive and focused on helping team members improve, rather than on punishing or belittling them.
+Over one third of marketers are already using Agile practices to manage their tasks.
 
-Effective team management also involves monitoring team performance and identifying areas for improvement. This can be achieved through regular performance reviews, team meetings, and feedback from customers or other stakeholders. The team manager must be able to identify strengths and weaknesses within the team, and develop strategies to address any issues.
+And, according to the State of Agile Marketing Report 2019, even marketers who refer to themselves as "traditional" are likely to make the move to Agile within the year.
 
-Leadership and team management are also closely linked to organizational culture. The leader and team manager must work together to create a positive, supportive, and inclusive work environment. This involves promoting diversity and inclusion, encouraging innovation and creativity, and fostering a culture of continuous improvement.
+Unfortunately, some teams that consider themselves Agile are only applying Agile practices to the way they manage tasks.
 
-Finally, effective leadership and team management require ongoing learning and development. The leader and team manager must be willing to learn from their experiences, seek feedback from team members and stakeholders, and continuously improve their skills and knowledge. This involves attending training courses, reading relevant literature, and networking with other leaders and team managers.
+Their teams are still managed in a more traditional way, limiting the benefits they get from marketing agility.
 
-In conclusion, leadership and team management are essential components of organizational success. Effective leadership involves setting a clear vision, communicating effectively, and providing guidance and support to team members. Effective team management involves organizing resources, fostering teamwork, monitoring performance, and identifying areas for improvement. Together, leadership and team management create a positive work environment, promote innovation and creativity, and drive organizational success.
+That's probably why, when asked about the biggest barrier preventing marketing departments from more completely implementing an Agile approach, 11% of respondents said they were lacking "support from their managers."
 
-What is the importance of leadership in team management?
-Leadership is crucial for setting the direction, creating the vision, and motivating the team towards achieving the desired goals.
+Management has the potential to help an Agile team thrive, or hold them back.
 
-How can a leader motivate their team?
-A leader can motivate their team by providing incentives, recognition, and rewards for good work.
+So, if you're the manager of an Agile team and want to check whether you're being the best Agile manager you can be -- read on for some tips you can start using today.
 
-What is the role of communication in leadership and team management?
-Effective communication is crucial for building trust and creating a positive work environment.
+Likewise, if you're part of a team that you think is not being managed in an Agile way -- pass this on to those you think would need it most.
 
-What is team management?
-Team management involves organizing, guiding, and directing the team to work cohesively towards achieving goals.
+Agile Tasks vs. Agile Teams
+Managing your tasks in an Agile way and managing your team in an Agile way are two complementary, yet separate, concepts. Bundling them together could result in neglecting one or the other (or giving up on Agile altogether, yikes!).
 
-What are the resources a team manager must organize?
-A team manager must organize the team's resources, including personnel, materials, and equipment, to ensure that they are used efficiently and effectively.
+What's Agile Task Management?
+Agile task management refers to the way you apply Agile values and principles when organizing your team's work items.
 
-How can a team manager prioritize tasks and delegate responsibilities effectively?
-A team manager can prioritize tasks and delegate responsibilities effectively by ensuring that each team member is working on tasks that are aligned with their strengths and abilities.
+For example, if you're already using:
 
-Why is collaboration and teamwork important in team management?
-Collaboration and teamwork are critical components of effective team management as they foster a culture of collaboration and ensure that team members are working together towards a common goal.
+a Kanban board
+WIP limits
+user stories
+planning poker for estimation
+then you're probably applying some form of Agile practice to the management of your tasks. Of course, this is a vital step towards marketing agility.
 
-What is the role of guidance and support in team management?
-The team manager should provide guidance and support to team members, including mentoring and coaching, feedback on their performance, and opportunities for training and development.
+However, it mainly concerns the team's work. These practices don't get to the heart of team management or group organization.
 
-What is the role of constructive criticism in team management?
-The team manager should provide constructive criticism and hold team members accountable when necessary, setting clear expectations for performance and providing feedback when expectations are not met.
+What's Agile Team Management?
+Agile team management is how managers apply Agile values and principles to organize the team itself.
 
-Why is it important for a team manager to monitor team performance?
-Monitoring team performance is important as it helps the team manager to identify areas for improvement, set goals and objectives, and recognize good performance.
+If you can say with confidence that your team members:
 
-How can a leader and team manager create a positive work environment?
-A leader and team manager can create a positive work environment by promoting diversity and inclusion, encouraging innovation and creativity, and fostering a culture of continuous improvement.
+are self-organized
+hold each other accountable for the work they do
+have a shared understanding of the Agile mindset
+have enough feedback loops in their process and use them regularly
+practice continuous mentoring and shared skill sets
+...then, you're a master of your team's Agile management! However, these team-level shifts are tough to achieve.
 
-Why is organizational culture important in team management?
-Organizational culture is important in team management as it sets the tone for the work environment and influences the behavior and attitudes of team members.
+While it might take a few days to apply an Agile practice to your tasks, applying Agile practices to your team structure and mindset can be a long-term challenge.
 
-What is the importance of ongoing learning and development in team management?
-Ongoing learning and development are important in team management as they help leaders and team managers to continuously improve their skills and knowledge.
+The good news is, the change is well worth it in the end.
 
-What are some examples of incentives a leader can provide to motivate their team?
-Examples of incentives a leader can provide to motivate their team include bonuses, recognition programs, and career development opportunities.
+Used in conjunction, Agile team and task management have the potential to take your team to far greater heights than they could achieve with just one alone.
 
-How can a leader and team manager promote diversity and inclusion?
-A leader and team manager can promote diversity and inclusion by creating an inclusive work environment, providing training on cultural competency, and encouraging diverse perspectives and ideas.
 
-Why is effective communication important in team management?
-Effective communication is important in team management as it promotes understanding, builds trust, and ensures that team members are aligned with the goals and objectives of the organization.
+Take the survey to see how you stack up against the 32% of marketers who report using Agile principles and practices to manage their work.
 
-How can a team manager foster a culture of continuous improvement?
-A team manager can foster a culture of continuous improvement by encouraging feedback, recognizing good performance, and providing opportunities for learning and development.
+Servant Leadership
+Since Robert Greenleaf coined the term in the 1970s, "servant leadership" has become the go-to phrase for explaining the relationship between Agile managers and their teams.
 
-What is the role of feedback in team management?
-Feedback is important in team management as it helps team members to understand their strengths and weaknesses, provides motivation and guidance, and promotes continuous improvement.
+"The servant-leader shares power, puts the needs of others first, and helps people develop and perform as highly as possible," says Greenleaf.
 
-What is leadership?
-Leadership refers to the ability to guide, direct, and motivate individuals or groups towards achieving a common goal.
+In an Agile marketing department, managers, directors, and other people in leadership roles act differently than in a traditional team.
 
-What is team management?
-Team management involves organizing, directing, and coordinating the efforts of a group of individuals to achieve a common objective.
+They're focused on serving the team to help them succeed, not on hitting their organizational targets at any cost.agile-management-servant-leadership
 
-Why is effective communication important in leadership and team management?
-Effective communication is essential in leadership and team management as it ensures that team members understand their roles and responsibilities, fosters a positive work environment, and promotes collaboration and teamwork.
+Image from 6Q Blog
 
-What are some of the key skills required for effective leadership and team management?
-Key skills for effective leadership and team management include communication, delegation, mentoring and coaching, accountability, problem-solving, and decision-making.
+As an Agile marketing servant leader, your focus is on:
 
-How can a leader motivate their team to achieve a common goal?
-A leader can motivate their team by setting a clear vision and goals, providing incentives and rewards for good work, recognizing and acknowledging individual contributions, and creating a positive work environment.
+Giving and taking feedback
+Creating an environment of trust within the team
+Cultivating other leaders among the team members
+Influencing the team, without commanding them
+Encouraging team members to "go for it!"
+Servant leadership is very successful in helping the team (and its leader) focus on quarterly priorities, instead of always fighting daily fires.
 
-What is the role of a team manager in effective team management?
-The team manager is responsible for organizing resources, delegating tasks, fostering collaboration and teamwork, monitoring performance, and providing guidance and support to team members.
+It also creates an environment filled with the powerful motivators of modern knowledge workers: mastery, autonomy, and purpose.
 
-What is the importance of accountability in team management?
-Accountability ensures that team members are aware of their responsibilities and are held responsible for their performance. It promotes transparency, trust, and a sense of ownership among team members.
+[embed]https://youtu.be/u6XAPnuFjJc[/embed]
 
-How can a leader foster innovation and creativity in the team?
-A leader can foster innovation and creativity by encouraging team members to share their ideas, creating an open and supportive work environment, providing opportunities for training and development, and rewarding innovative and creative ideas.
+Own the Work You Do
+The Agile mindset requires "respect, collaboration, improvement and learning cycles, pride in ownership, focus on delivering value, and the ability to adapt to change."
 
-What is the role of continuous learning in leadership and team management?
-Continuous learning is essential in leadership and team management as it helps leaders and team managers to stay updated with the latest trends and techniques, acquire new skills and knowledge, and adapt to changing environments.
+Accountability is a big part of cultivating a high-performing team that has a shared understanding of the Agile mindset. In fact, accountability is a quality of Agile itself.
 
-How can a leader and team manager create a positive work environment?
-A leader and team manager can create a positive work environment by promoting diversity and inclusion, fostering teamwork, recognizing and rewarding good work, providing a supportive and respectful work culture, and encouraging open communication.
+Good Agile managers are successful in building an environment in which projects are built around motivated individuals, who can be trusted to deliver on their commitments.
+
+Managers can build an environment of accountability by:
+
+Making sure project expectations are clear from the start
+Encouraging communication within the team
+Providing the resources the team needs to execute the tasks at hand
+Keeping channels for feedback open and in frequent use
+Being an example by delivering on their own commitments and doing so humbly
+A strong mindset of accountability is the secret sauce to cultivating high-performing Agile teams that consistently deliver value for their customers.
+
+Love Your Process
+Agile marketing teams need to be involved in the way their process is structured in order to participate in it wholeheartedly.
+
+At the end of the day, the team members are the people closest to the work. Also, they're most aware of their group dynamic and how they collaborate optimally with each other.
+
+While a manager or leader can set product direction, make staffing decisions, and help the team with professional development, he or she should never command process changes.
+
+In the best case, a manager may influence process by advising the team to help alleviate existing dependencies.
+
+When given the opportunity, the team may improve their process independently by:
+
+Adding feedback loops where they are needed
+Adjusting WIP limits to increase speed of delivery
+Customizing the structure of their task board
+Editing their explicit policies to control quality
+Changing how they are physically positioned in their workspace
+And many other small, but impactful changes a manager may not have thought of.
+The result?
+
+Members are more motivated to adhere to the team process because they have dedicated their time and attention to building it out in a way that suits them best.
+
+Building the Self-organized Team
+Ideally, at their best, Agile marketing teams are self-organized.
+
+However, self organization doesn't happen overnight. It doesn't last forever without the proper maintenance either.
+
+That's why the manager will never be redundant, even in the self-organized team.
+
+In fact, the manager is responsible for maintaining an environment in which the team can perform at its best and self-organize successfully around the work items on deck.
+
+Once the team is in place, it takes time for it to grow to its maximum potential. The manager must guide the team through four key phases to ensure the team develops fully. These four phases are referred to as forming, storming, norming and performing.
+
+This entire process is a cycle that is overseen by the manager and repeats when new members join the team or an existing member leaves.
+
+In practice, a manager may help the team reach the most productive "performing" phase by:
+
+Implementing an internal knowledge base to help the team members learn from each other
+Organizing team-building activities to increase trust within the team
+Helping team members with professional development
+Finding ways to motivate the team beyond financial compensation
+Mentoring future leaders within the team
+After a team reaches the performing stage, team members will be able to recognize the jobs they are most suited to by self-organizing with their teammates, not because their manager told them to.
+
+Continuous Agile Improvement
+In order to deliver the best value to the customer, Agile practices for task management continuously improve work items as they move through the workflow.
+
+But, team members need continuous improvement, too. The team members themselves need to benefit from the continuous improvement mindset within the team.
+
+Luckily, managers are in a position to facilitate that.
+
+By providing continuous face-to-face mentoring to team members and encouraging shared skill sets, a good Agile marketing manager can help the team flourish.
+
+Continuous improvement on the team level can:
+
+agile-management-team
+
+Similar to maintaining accountability within a team, maintaining an attitude of continuous improvement is a long-term investment in the team, for which the manager is responsible.
+
+Agile Management = Team + Tasks
+Agile task management is awesome. It can help you deliver the best value to your customer, prevent you from multitasking, and help you keep pace with changing priorities.
+
+But, without a team that is governed by the same Agile principles, Agile task management can only operate at half its potential.
+
+Go full throttle with marketing agility and bring Agile practices to your team management, not just your task management.
+
+Are you already applying Agile practices to the way you manage your team? Tell us how you got started in the comments below.
+
+The principles of managing your team and your tasks Agilely are complementary but distinct. Combining them can cause one or both of them to be neglected. Agile task management is structuring your team's work items using Agile ideals and concepts.
+
+The work of the team is primarily the focus. These methods don't address the core issues in team organization or group dynamics. Agile team management, on the other hand, refers to how managers arrange their teams using the ideals and principles of Agile.
+
+Agile teams and task management can help your team reach far higher levels than they could if used separately.
+
+Certified ScrumMaster Certification Training
+Learn the Basics of Scrum and the Scrum LifecycleEXPLORE COURSECertified ScrumMaster Certification Training
+What's Agile Task Management? 
+Agile task management is structuring your team's work items according to Agile values and concepts.
+
+If you currently use, for instance, any of the following methods to manage your work, you presumably already use some Agile practice:
+
+A Kanban board
+WIP limits
+User Stories
+Preparing poker for estimation/approximation
+What Is An Agile Team? 
+To answer what is Agile team, it can be remarked that it is a collection of workers, contractors, or freelancers in charge of carrying out an Agile project. Agile teams frequently work close to one another and are free from duties to other projects during the project's schedule.
+
+Every member of an Agile team is needed to generate the final product or service. Therefore, the team is often cross-functional, and responsibilities will change based on the requirements of the project and the kind of Agile framework used.
+
+What's Agile Team Management?
+Agile team management is the process through which managers arrange their teams according to the values and principles of Agile.
+
+If you can confidently state that the following describes your team members, you are a maestro of your team's Agile management:
+
+Self-organized
+Hold each other responsible for their efforts
+Possess a typical comprehension of the Agile mentality
+Have sufficient feedback loops in their process and routinely employ them
+Practice ongoing mentorship and skill-sharing
+What's Agile Project Management?
+Agile project management is an iterative method of carrying out a project throughout its existence. Agile life cycles incorporate multiple iterations or incremental stages toward project fulfillment. They are commonly used in software development projects to improve velocity and flexibility since iteration permits you to remake as you go rather than following a linear route.
+
+One fundamental objective of an Agile or iterative approach is to provide edges throughout the cycle rather than just at the conclusion. Agile initiatives should fundamentally assimilate empowerment, trust, and adaptability standards and behaviors.
+
+The Ingredients for Managing Agile Teams With Scrum
+Here are the components of the process with Scrum:
+
+Project scope: The teams need a project scope document, a focused document defining what a project is supposed to accomplish. There are many scenarios where a project scope document is necessary, and projects end up running long, and if there is no document, teams are left guessing.
+Team scope: The team needs a team scope document, which defines the team's resources, deadlines, knowledge, skills, skills, expectations, and capabilities. Team scope documents are often used for setting detailed estimates of a project, and it is often the first step in establishing the project scope.
+Feedback loop: The team's project scope depends on the team's feedback loop. The team's size reflects the knowledge and skills of its members. Without feedback, the team will not know where the project needs to be adjusted to meet customer needs. Feedback can be informal, or it can be more structured, but it needs to be given in a timely way and with sufficient detail. The team needs to keep track of how it is evaluating its progress against the goals. Without feedback, the team will not be able to develop suitable projects.
+Sprints: Agile teams need to know how long each sprint will be. How much time will it take them to deliver the project? Scrum is a continuous improvement process, so the team needs to know how often to adjust the project scope. For example, a team might decide to change its project scope from an 18-month sprint to a 9-month sprint. However, because of the nature of the sprints and the team's knowledge and skills, the team will decide what the suitable duration is.
+Constraints: Agile teams need to know what conditions they need to implement their project. For example, what is the maximum depth that they can work in a particular task? Often a team will want to start and end a sprint in different parts of a project, and the team will need to determine which parts need to be implemented first.
+Metrics: Agile teams need to know how their project is performing. For example, if the project has been completed, the team needs to determine the project metrics and measure success. Project metrics can be detailed and quantitative (such as the number of customers reached) and are also often expressed as a qualitative outcome such as value delivered.
+Interaction with customers: Agile teams need to interact with customers and consumers to understand the market and set goals for new projects.
+Get Your CSM Certification the Easy Way
+Certified ScrumMaster Certification TrainingEXPLORE COURSEGet Your CSM Certification the Easy Way
+Building the Self-organized Team
+Agile marketing teams function best when they are self-organized. Self-organization, however, takes time to develop. Without the proper care, it doesn't endure indefinitely either. The manager will thus never be unnecessary, even in a self-organized workforce. In truth, the manager is in charge of preserving a setting where the team may operate at its peak and successfully self-organize around the tasks at hand. They might assist the team in moving into the most fruitful "performing" phase by:
+
+Establishing an internal knowledge base to enable team members to share information
+Organizing team-building exercises to foster trust among teammates
+Helping team members develop professionally
+Identifying methods to inspire the workforce that goes beyond financial rewards
+Guiding the team's future leaders
+Build Upon a Solid Foundation
+Agile teams evolve via four crucial stages:
+
+Forming
+Storming
+Norming
+Performing
+A team's development truly takes off once it reaches the performance stage. Members trust one another, understand one another's skills, and utilize that knowledge to improve how they produce software.
+
+Agile teams must get maintained with some corporate discipline, but protecting the team is beneficial—within reason, of course. The team returns to the formation stage as it absorbs change when it is presented.
+
+The foundation of effective Agile teams includes sound engineering principles, including code reviews, task branching, continuous integration, and predictable release schedules.
+
+The Agile Team Structure
+Agile teams typically consist of 5 to 11 individuals and are small, high-performing teams with complementary abilities. In contrast to conventional project teams, Agile teams must be highly flexible and independent. Since at every level of the project, they must deal with shifting consumer requests.
+
+They usually have the following organizational structure to accomplish that team dynamic:
+
+A. Product Owner
+The team's point of contact with the client is the product owner. They will keep an eye on everything and get client feedback. They communicate the project team's needs to the client and ensure that the group doesn't lose sight of those needs.
+
+B. Project Manager
+The project manager holds team members accountable and assists as necessary. The product owner provides the managers with customer input, leading the team through the sprint.
+
+C. Team Participants
+The people that work on the project are the team members. Although they are mainly independent, the project manager can help them concentrate on their responsibilities and activities.
+
+D. Project Participants
+Project stakeholders would relate to the project even if they were not necessarily engaged in its development.
+
+Continuous Agile Improvement 
+Agile task management strategies continually enhance work items as they progress through the workflow to provide the most value to the client.
+
+On a team level, continuous development can:
+
+Avoid team attrition (a.k.a, team members leaving the team)
+Maintaining the team's performance in the development process.
+Develop new abilities and skills within the squad
+Develop new leaders inside the group.
+Agile Management = Team + Tasks 
+Agile project management is fantastic. It may assist you in giving your customers the most excellent value possible, stop you from multitasking, and help you stay up with shifting priorities. But Agile task management can only perform to its total capacity in a team that adheres to the same Agile ideals.
+
+FREE Agile Scrum Foundation Course
+Master the fundamentals of agile and scrum nowSTART LEARNINGFREE Agile Scrum Foundation Course
+How Agile Teams Collaborate across Departments
+The who, what, where, and why for each team inside the broader software team is broken down below, along with a summary of each triad:
+
+Triad
+Who
+Focus
+Make
+
+Product Management
+
+Recognize the market, the intended client personas, and the principles of excellent product design.
+
+Design
+
+Define the value proposition, the product objectives, and the minimal viable product.
+
+Development
+
+Utilize ethical, sustainable engineering methods when creating the product.
+
+Sell
+
+Product Management
+
+Recognize the market developments and competitive environment for the product.
+
+Design
+
+Develop messaging that emphasizes the value the product offers to each consumer category.
+
+Marketing
+
+Create supporting materials for the product launch, such as web pages, email announcements, blogs, and videos.
+
+Operate
+
+Product Management
+
+Release software to users on a consistent schedule.
+
+Development
+
+Attend to client concerns
+
+Support & Ops
+
+Customer feedback should be shared with the make triad (Dev, PM, and Design) to inform the creation of future products.
+
+How Does an Agile Team Compare to Other Teams? 
+Here is how Agile outperforms these conventional techniques:
+
+A. More Capable of Addressing Shifting Client Demands
+Traditional teams cannot iterate on the product often. Agile teams, however, are set up to adjust to changes in direction based on client feedback swiftly.
+
+B. Increased Responsibility
+The absence of accountability is one of the primary problems with traditional project management. Employees frequently are unsure of their precise roles or what is expected of them when large teams of individuals undertake massive projects. However, because the team is so tiny with Agile techniques, it is simple for everyone to understand what exactly has been given to them.  
+
+How to Become an Agile Team?
+Here is a guide to becoming an Agile team:
+
+Present the methodology and regulations
+Create a first-month plan
+Choose your team's roles
+Hold frequent meetings
+Use project management software with an Agile framework
+Agile Scrum Master Course (FREE)
+Become an agile scrum pro with the free courseENROLL NOWAgile Scrum Master Course (FREE)
+Why Use Agile Teams?
+According to a case study, 51% of American workers believe they waste at least one hour daily at work. Adhering to these Agile best practices may create high-performance teams designed for quick and efficient work.
+
+Agile project management advantages include the following:
+
+Higher-quality products
+Decreased risk
+Improved project performance visibility
+Improved project management
+Increased predictability of projects
+A Project Needs Scrum 
+The combination of agile teams and the tools, processes, and management practices used to manage an Agile project creates a project that needs to be addressed in a way that improves project performance.
+
+The project management tool suite is called Scrum. The tool suite includes the following components:
+
+Scrum: This tool provides continuous improvement, iterations, work management, team collaboration, and a feedback loop. Scrum stands for a combination of activities that allow teams to improve project performance and meet the customer's requirements. It is a method of implementing agile development methodologies. The name of the tool is derived from the five core values of Agile:
+Sprints: During each sprint, teams meet for one day, usually on a Sunday. Teams set the project requirements. Then their team determines whether the team accomplished those requirements based on various metrics. Teams determine how the team's work is split and how long it needs to be completed. Teams also discuss upcoming milestones, budgets, and all changes in the project scope. Teams finish their sprints by setting the following sprint goals.
+Sprints are about measurable results. During the sprint review, the Scrum master guides each team as it details sprint goals and how to meet them and helps each team evaluate their performance. Team members are evaluated based on their ability to complete the project goals and agree on which roles they play in the project. During the review, each team member works out the plans and what skills or skills the team has to perform the work well.
+
+FREE Agile Scrum Foundation Course
+Master the fundamentals of agile and scrum nowSTART LEARNINGFREE Agile Scrum Foundation Course
+Sprints are about delivery. To deliver the project successfully, Agile teams need to determine how long each of their goals should be and provide them to their customers. At the end of each sprint, the section defines a project milestone based on the completed tasks during that sprint. Each team member's skills can be viewed in relation to the goals. When the project is finished and the landmarks are complete, the team will decide how to rank their skills and the project's overall performance in the feedback loop. Each team member knows the roles that they have to play to make the project successful. Teams continue to focus on delivering a product that meets customer requirements.
+
+Scrum works well with the tools and processes that teams will use for their project. The tools and processes are known as scrum processes. Scrum processes focus on improving project performance. They also focus on improving team communication and creating trust. A team that uses a structured approach for project management is more likely to find success.
+
+Are you a professional who is aspiring to be a Agile Scrum Master? Then check out the ASM certification course now.
+Agile Project Management 
+There are many models of project management, but there are also many project management methods. A project manager who focuses on project management is an Agile Project Manager. The result is to have Agile teams with rapid, visual signs of progress incorporating customer feedback into the solutions.
+
+Simplilearn can help you gain the critical skills you need to be a successful Agile Project Manager. If you are new to the area, you can gain a strong grounding with the Agile and Scrum Foundation course.  If you are experienced with Agile and Scrum, you can take your skills to a higher level with the Post Graduate Program in Agile, which Simplilearn offers in partnership with UMass Amherst College of Engineering.
